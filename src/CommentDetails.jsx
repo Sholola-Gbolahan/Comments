@@ -1,7 +1,7 @@
 import React from 'react';
 
 const CommentDetails = (props) => {
-    console.log(props);
+    // console.log(props);
   return (
     <div>
          <div className='comment'>
